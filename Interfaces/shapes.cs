@@ -9,7 +9,7 @@ namespace Interfaces
     interface IShape
     {
          void Area();
-         void perimeter();
+        void perimeter();
     }
 
     public class circle:IShape
